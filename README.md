@@ -18,3 +18,4 @@ Key Insights from the Analysis:
 
 This dashboard provides clear, data-driven insights into the primary drivers of happiness, offering valuable intelligence for stakeholders focused on improving global well-being and informing strategic initiatives.
 
+https://github.com/Leiyangamba/Global_Happiness_Analysis_PowerBI/blob/main/full%20image.png 
